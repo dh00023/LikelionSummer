@@ -10,7 +10,7 @@
 |8~9장|일|
 |10~13장|목|
 
-정리는 Markdown으로 Github폴더에 올려주세요.
+정리는 Markdown으로 [Github폴더](https://github.com/dh00023/LikelionSummer)에 올려주세요.
 
 ## Fuse
 
@@ -34,4 +34,3 @@
 
 3. 디자인
 4. 모델링
-
