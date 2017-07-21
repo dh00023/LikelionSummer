@@ -11,7 +11,7 @@
 |10~13장|8월 3일(목)|
 
 정리는 Markdown으로 [Github폴더](https://github.com/dh00023/LikelionSummer)에 올려주세요.
-파일이름 [20170719-이름.md]로 통일해주세요.
+파일이름 [20170719-챕터.md]로 통일해주세요.
 
 ## Fuse
 
